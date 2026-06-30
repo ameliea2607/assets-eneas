@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 15. 02. 2026
+  Major Features:
+    - added addtional sprites for unit-05 emotion icons
+    - added new banner for informatron pages
+---------------------------------------------------------------------------------------------------
 Version: 0.1.2
 Date: 14. 02. 2026
   Major Features:
